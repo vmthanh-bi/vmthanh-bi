@@ -14,6 +14,7 @@
   <br>  Check out my projects - all are available at: 
   <br>  https://github.com/vmthanh-bi
   <br>
+  <br>
   <p align="right">
     Find me on
     <a href="https://www.linkedin.com/in/tony-vu-1804/">
