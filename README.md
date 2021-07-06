@@ -1,6 +1,6 @@
 ![1 2 3 4 5](https://user-images.githubusercontent.com/68564590/122273612-87699200-ced9-11eb-832c-86968393ab7d.png)
 
-<h1>
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/68564590/122598157-5cf81000-d064-11eb-84f4-3f4ad498a0aa.gif" width="30px">  
     Welcome | Witaj | Chào Mừng | Bienvenu | Bienvenidos 
   <img src="https://user-images.githubusercontent.com/68564590/122598157-5cf81000-d064-11eb-84f4-3f4ad498a0aa.gif" width="30px">  
