@@ -40,9 +40,9 @@ struct TonyVu {
     var operatingSystem = "macOS"
     var codeLanguage = ["Swift", "Javascript", "C++", "HTML", "CSS", "R", "SQL"]
     var tools = ["SwiftUI", "MySQL"]
-    var language = ["English 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Polish 🇵🇱", "Vietnamese 🇻🇳", "French 🇫🇷", "Spanish 🇪🇸"],
-    var location = "London" | "United Kingdom",
-    var background = ["Team player 🕺🏻🕺🏻", "Learner 🧑🏻‍🎓", "Critical thinker 💭", "Time manager ⏳", "Communicator 💬", "Problem solver 🛠️"],
+    var language = ["English ": "🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Polish": "🇵🇱", "Vietnamese": "🇻🇳", "French": "🇫🇷", "Spanish": "🇪🇸"],
+    var location = "London": "United Kingdom",
+    var background = ["Team player": "🕺🏻🕺🏻", "Learner": "🧑🏻‍🎓", "Critical thinker": "💭", "Time manager": "⏳", "Communicator": "💬", "Problem solver": "🛠️"],
     var currentFocus = "iOS Mobile App Development"
 };
 ```
