@@ -34,15 +34,15 @@
   More about: Tony Vu
 </h2>
 
-```Javascript
-const tonyVu = {
-    nationality: ["Polish", "Vietnamese"],
-    operatingSystem: "macOS",
-    code: ["Javascript", "C++", "HTML", "CSS", "R", "SQL"],
-    tools: ["SwiftUI", "MySQL"],
-    language: ["English 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Polish 🇵🇱", "Vietnamese 🇻🇳", "French 🇫🇷", "Spanish 🇪🇸"],
-    location: "London" | "United Kingdom",
-    background: ["Team player 🕺🏻🕺🏻", "Learner 🧑🏻‍🎓", "Critical thinker 💭", "Time manager ⏳", "Communicator 💬", "Problem solver 🛠️"],
-    currentFocus: "Ios Mobile App Development"
+```Swift
+struct TonyVu {
+    var nationality = ["Polish", "Vietnamese"]
+    var operatingSystem = "macOS"
+    var codeLanguage = ["Swift", "Javascript", "C++", "HTML", "CSS", "R", "SQL"]
+    var tools = ["SwiftUI", "MySQL"]
+    var language = ["English 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Polish 🇵🇱", "Vietnamese 🇻🇳", "French 🇫🇷", "Spanish 🇪🇸"],
+    var location = "London" | "United Kingdom",
+    var background = ["Team player 🕺🏻🕺🏻", "Learner 🧑🏻‍🎓", "Critical thinker 💭", "Time manager ⏳", "Communicator 💬", "Problem solver 🛠️"],
+    var currentFocus = "iOS Mobile App Development"
 };
 ```
