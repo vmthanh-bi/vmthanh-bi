@@ -11,8 +11,9 @@
 <p>
   My name is Tony Vu, a passionate <strong>web & iOS developer</strong> from Warsaw, Poland, and currently living London, United Kingdom.
   <br>
-  <br>  Check out my projects - all are available at: 
-  <br>  https://github.com/vmthanh-bi
+  <br>  Check out what I have been working on! 
+  <br>  https://github.com/vmthanh-bi/100DaysOfSwiftUI
+  
   <br>
   <br>
   <p align="right">
