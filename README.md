@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/68564590/122794493-37f9dc00-d2b4-11eb-814f-3860ed1ddc4a.gif" width="350px" align="left">
 
 <p>
-  My name is Tony Vu, a passionate <strong>web & iOS developer</strong> from Warsaw, Poland, and currently living London, United Kingdom.
+  My name is Tony Vu, a passionate <strong>web & iOS developer</strong> from Warsaw, Poland.
   <br>
   <br>  Check out what I have been working on! 
   <br>  https://github.com/vmthanh-bi/100DaysOfSwiftUI
@@ -42,7 +42,7 @@ struct TonyVu {
     var codeLanguage = ["Swift", "Javascript", "C++", "HTML", "CSS", "R", "SQL"]
     var tools = ["SwiftUI", "MySQL"]
     var language = ["English ": "🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Polish": "🇵🇱", "Vietnamese": "🇻🇳", "French": "🇫🇷", "Spanish": "🇪🇸"],
-    var location = "London": "United Kingdom",
+    var location = "Warsaw": "Poland  🇵🇱",
     var background = ["Team player": "🕺🏻🕺🏻", "Learner": "🧑🏻‍🎓", "Critical thinker": "💭", "Time manager": "⏳", "Communicator": "💬", "Problem solver": "🛠️"],
     var currentFocus = "iOS Mobile App Development"
 };
